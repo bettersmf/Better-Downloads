@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<!DOCTYPE package-info SYSTEM "https://www.simplemachines.org/xml/package-info">
+<package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
+  <id>bettersmf:better-downloads</id>
+  <name>Better Downloads</name>
+  <version>0.1.0</version>
+  <type>modification</type>
+
+  <install for="2.1 - 2.1.99">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </install>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev1,0.1.0-dev8h,0.1.0-dev8i,0.1.0-dev8j,0.1.0-dev8k,0.1.0-dev8l,0.1.0-dev8m,0.1.0-dev8n">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev2">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev3">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev4">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev5">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev6">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev6a">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev6b">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev6c">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev7">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8a">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8b">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8c">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8d">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8e">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8f">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+
+  <upgrade for="2.1 - 2.1.99" from="0.1.0-dev8g">
+    <readme>README.txt</readme>
+    <require-file name="Sources/BetterDownloads.php" destination="$sourcedir" />
+    <require-file name="Themes/default/BetterDownloads.template.php" destination="$themes_dir/default" />
+    <require-file name="Themes/default/languages/BetterDownloads.english.php" destination="$themes_dir/default/languages" />
+    <require-file name="Themes/default/css/BetterDownloads.css" destination="$themes_dir/default/css" />
+    <require-file name="Themes/default/images/better_downloads_menu.png" destination="$themes_dir/default/images" />
+    <require-file name="Themes/default/images/admin/better_downloads.png" destination="$themes_dir/default/images/admin" />
+    <require-file name="Themes/default/images/admin/big/better_downloads.png" destination="$themes_dir/default/images/admin/big" />
+    <code>install.php</code>
+  </upgrade>
+
+  <uninstall for="2.1 - 2.1.99">
+    <readme>README.txt</readme>
+    <code>uninstall-required.php</code>
+    <database>uninstall-data.php</database>
+    <remove-file name="$sourcedir/BetterDownloads.php" />
+    <remove-file name="$themes_dir/default/BetterDownloads.template.php" />
+    <remove-file name="$themes_dir/default/languages/BetterDownloads.english.php" />
+    <remove-file name="$themes_dir/default/css/BetterDownloads.css" />
+    <remove-file name="$themes_dir/default/images/better_downloads_menu.png" />
+    <remove-file name="$themes_dir/default/images/admin/better_downloads.png" />
+    <remove-file name="$themes_dir/default/images/admin/big/better_downloads.png" />
+  </uninstall>
+</package-info>
