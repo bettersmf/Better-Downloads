@@ -23,11 +23,11 @@ Better Downloads adds a dedicated downloads area to Simple Machines Forum with c
 - Latest Downloads and Most Downloaded portal blocks
 - Uninstall behavior designed to preserve data unless explicitly purged
 
-## Current Development Version
+## Current Version
 
-**0.1.0-dev8o**
+**0.1.0**
 
-This build includes the completed outer admin-panel frame fix. Better Downloads admin sections now use the outer panel as the visual frame, with the blue SMF category header and body enclosed as one continuous native-looking cell.
+Better Downloads 0.1.0 is the first stable public release. It promotes the tested dev8o build used on BetterSMF.com, including the completed outer admin-panel frame fix and the existing Better Portal and Better Tags integrations.
 
 ## Compatibility
 
@@ -64,7 +64,7 @@ The Better Downloads admin area includes dedicated sections for:
 - Add/Edit Category
 - Settings
 
-The current admin layout follows the SMF visual language: the outer panel owns the complete border while the category header and content body live inside it as one unified cell.
+The admin layout follows the SMF visual language: the outer panel owns the complete border while the category header and content body live inside it as one unified cell.
 
 ## Project Structure
 
