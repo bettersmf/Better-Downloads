@@ -1,10 +1,12 @@
 # Changelog
 
-## 0.1.0-dev8o
+## 0.1.0
 
-Current public development build.
+First stable public release.
 
-### Added and improved
+Promoted from the tested 0.1.0-dev8o build used on BetterSMF.com.
+
+### Included
 
 - Standalone Better Downloads manager for SMF 2.1.x
 - Download categories and item management
@@ -16,10 +18,15 @@ Current public development build.
 - Admin list and form polish
 - Custom Better Downloads admin/menu icons
 - Data-preserving uninstall behavior
+- Completed outer admin-panel framing
+
+## 0.1.0-dev8o
+
+Final development build before the 0.1.0 stable release.
 
 ### dev8o admin panel fix
 
 - Moved complete admin section frame ownership to the outer `.bd_admin_panel`
-- Blue category header and section body now form one continuous panel
+- Blue category header and section body form one continuous panel
 - Removed inner borders that caused double-line or incomplete-frame behavior
 - Applies consistently to Downloads, Add/Edit Download, Categories, Add/Edit Category, and Settings
